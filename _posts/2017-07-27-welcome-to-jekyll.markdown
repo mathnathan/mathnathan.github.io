@@ -24,6 +24,6 @@ me in their gleaming, wide eyes.
 I will be using this simple [Jekyll][jekyll-docs] framework to make a more
 professional blog on github. Nothing but research related information to come... 
 
-[dl-book]: https://deeplearningbook.org
-[old-blog]: https://mathnathan.com
+[dl-book]: http://www.deeplearningbook.org
+[old-blog]: http://mathnathan.com
 [jekyll-docs]: https://jekyllrb.com/docs/home
