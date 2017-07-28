@@ -1,25 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Blogging - The Revival"
 date:   2017-07-27 20:24:46 -0400
-categories: jekyll update
+categories: post jekyll
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Blogging once came easily. That time was coincident with when programming and I
+first fell in love... I made an
+online identity and a now ancient website, [mathnathan][old-blog]. Everything I
+learned was new and ground breaking! Youthful enthusiasm, and perhaps naivety,
+left me with unbridled passion and energy. However, the more you know, the more
+you know
+you don't know. And unfortunately, the more you know others don't know.
+Cynicism crept into my optimistic little heart. Thankfully, after working in
+industry, consulting, and performing research, my perspective has once again
+broadened. I don't pretend it will be the last time, but for now, I want to
+contribute to the cumulative pool of internet knowledge once again! I have
+acquired some expertise in [Deep Learning][dl-book] - unsupervised learning in
+particular. We have organized local Deep Learning meet ups and workshops. I am
+fulfilled when I share what I have learned with others. Perhaps I see a younger
+me in their gleaming, wide eyes. 
 
-Jekyll also offers powerful support for code snippets:
+I will be using this simple [Jekyll][jekyll-docs] framework to make a more
+professional blog on github. Nothing but research related information to come... 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
+[dl-book]: https://deeplearningbook.org
+[old-blog]: https://mathnathan.com
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
