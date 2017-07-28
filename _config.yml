@@ -24,7 +24,7 @@ github_username:  mathnathan
 
 # Build settings
 markdown: kramdown
-theme: architect
+theme: minima
 gems:
   - jekyll-feed
 exclude:
