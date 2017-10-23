@@ -74,7 +74,7 @@ highest level, we have noise being added to the data by the imaging device. The
 next level of uncertainty comes as a consequence of discretization.
 Images in reality are continuous but in the process of imaging we only measure
 certain points along the face. Consider for example a military satellite
-tracking a vehicle. If one wishes to predict the future location of the van,
+tracking a van. If one wishes to predict the future location of the van,
 the prediction is limited to be within one of the discrete cells that make up
 its measurements. However, the true location of the van could be anywhere
 within that grid cell. There is also intrinsic stochasticity at the atomic
@@ -93,7 +93,7 @@ as a probability distribution. There will be many ways to interpret the data as
 a probability, but we will explore the most common - considering any one image to be the result
 of a data generating distribution, $P_{data}(\mathbf{x})$. Here $\mathbf{x}$ is considered to be
 an image of a face with $n$ pixels. So $P_{data}$ is a joint distribution over
-each pixel of the frame with a probability density function (pdf),
+each pixel of the image with a probability density function (pdf),
 $p_{data}(x_1,x_2,\dots,x_n)$.
 
 To build intuition about what $p_{data}(\mathbf{x})$ is and how it relates to
