@@ -13,9 +13,9 @@ Machine learning literature makes heavy use of probabilistic graphical models
 and bayesian statistics. In fact, state of the art (SOTA) architectures, such as
 [variational autoencoders][vae-blog] (VAE) or [generative adversarial
 networks][gan-blog] (GAN), are intrinsically stochastic by design. To
-wholesomely understand research in this field, not only do we need a broad
+holistically understand research in this field, not only do we need a broad
 knowledge of mathematics, computing, probability, and optimization but we need
-intuition about how these concepts are applied to real world problems. For
+intuition about how these concepts are applied to real world problems. For 
 example, one of the most common applications of deep learning techniques is
 vision. We may want to classify images or generate new ones. Most SOTA
 techniques pose these problems in a probabilistic framework. We frequently see
